@@ -1,0 +1,6 @@
+{
+  "name": "Mann",
+  "description": "A poetic, non-clinical AI companion supporting CBT reframes, wellness rituals, crisis logging, and emotional grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
